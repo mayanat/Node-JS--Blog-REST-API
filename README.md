@@ -3,7 +3,7 @@ Node JS Full Code- Blog CRUD Functions, Connacted To Mongo DB, View In Angular V
 -------------------------------------------------------------------------------
 Live Example===> https://mayanblogs.firebaseapp.com/
 -------------------------------------------------------------------------------
-
+Technologies- Node Js stored in Azure, Mongo DB stored in amazon, Angular stored in FireBase.
 -------------------------------------------------------------------------------
 ![blogCard](https://user-images.githubusercontent.com/55134363/69498188-9484f180-0eed-11ea-9ba0-6e11ce410877.png)
 -------------------------------------------------------------------------------
